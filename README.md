@@ -1,11 +1,11 @@
 🍁𝐇𝐨𝐥𝐚 𝐬𝐨𝐲 𝐀𝐧𝐠𝐞𝐥 𝐎𝐅𝐂, 𝐜𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫 𝐝𝐞 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐛𝐨𝐭𝐬 , 𝐇𝐚𝐜𝐡𝐢𝐤𝐨 𝐛𝐨𝐭 𝐲 𝐨𝐭𝐫𝐨𝐬 𝐛𝐨𝐭𝐬 𝐞𝐧 𝐝𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨🐺
 
-☃️𝐄𝐒𝐓𝐄 𝐄𝐒 𝐄𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 (𝐀𝐧𝐠𝐞𝐥-𝗕𝗢𝗧-𝗠𝗗)
+☃️𝐄𝐒𝐓𝐄 𝐄𝐒 𝐄𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 (𝗔𝗡𝗗𝗬-𝗕𝗢𝗧-𝗠𝗗)
 𝗬 𝗧𝗘 𝗜𝗡𝗩𝗜𝗧𝗢 𝗔 𝗗𝗔𝗥𝗟𝗘 𝗨𝗡𝗔 𝗘𝗦𝗧𝗥𝗘𝗟𝗟𝗔 𝗔𝗟 𝗥𝗘𝗣𝗢 𝗦𝗜 𝗧𝗘 𝗚𝗨𝗦𝗧𝗔🌟
 
-# `🐺 𝗔𝗡𝗚𝗘𝗟-𝗕𝗢𝗧-𝗠𝗗 🐺` 
+# `🐺 𝗔𝗡𝗡𝗗𝗬-𝗕𝗢𝗧-𝗠𝗗 🐺` 
 <p align="center">
-<img src="https://i.ibb.co/wYRhwjt/angel-bot.jpg" alt="AngelBot-MD" width="900"/>
+<img src="https://i.ibb.co/wYRhwjt/Andy-bot.jpg" alt="AndyBot-MD" width="900"/>
 </p>
 ------------------
 
@@ -57,7 +57,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Ender-GB-Isis777/LOBO-BOT-MD.git && cd LOBO-BOT-MD
+git clone https://github.com/Ender-GB-Isis777/ANDY-BOT-MD.git && cd ANDY-BOT-MD
 ```
 
 ```bash
@@ -80,17 +80,17 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd LOBO-termux
+> cd ANDY-termux
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Lobo-termux $  
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Andy-termux $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd LOBO-termux
-> rm -rf LOBOsession
+> cd ANDY-termux
+> rm -rf ANDYsession
 > npm start
 ```
 
@@ -103,7 +103,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/51982110760" target="blank"><img src="https://img.shields.io/badge/Angel_ofc_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## `COLABORADORES DEL BOT` 
-<a href="[https://github.com/Ender-GB-Isis777]"><img src="https://github.com/Ender-GB-Isis777.png" width="100" height="100" alt="Ender"/></a>
+<a href="[https://github.com/Ender-GB-Isis777]"><img src="https://github.com/Ender-GB-Isis777.png" width="100" height="100" alt="Angel"/></a>
 <a href="[https://github.com/Jxtxn17]"><img src="https://github.com/Jxtxn17.png" width="100" height="100" alt="Jxtxn"/></a>
 
 
