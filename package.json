@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/ANGEL9000/ANDY-BOT-MD.",
+  "homepage": "https://github.com/ANGEL9000/ANGEL9000/ANDY-BOT-MD.",
   "author": {
     "name": "Angel"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANGEL9000/ANDY-BOT-MD.git"
+    "url": "git+https://github.com/ANGEL9000/ANGEL9000/ANDY-BOT-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/ANGEL9000/LOBO-BOT-MD/issues"
+    "url": "https://github.com/ANGEL9000/ANGEL9000/ANDY-BOT-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
